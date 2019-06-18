@@ -1,0 +1,2 @@
+# GBF
+game diary
